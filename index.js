@@ -22,7 +22,7 @@ app.post('/calculate_insurance', (req, res) => {
      * @todo makes response content type to be in json
      */
 
-    res.writeHead(200,{'Content-Type': 'text/json'});
+    //res.writeHead(200,{'Content-Type': 'text/json'});
 
     const 
         /**
