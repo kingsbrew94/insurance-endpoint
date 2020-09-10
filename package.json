@@ -1,8 +1,8 @@
 {
   "name": "insurance_endpoint",
   "version": "1.0.0",
-  "description": "End point for calculating motor insurance",
-  "main": "main.js",
+  "description": "End point for calculating motor or vehicle insurance",
+  "main": "index.js",
   "scripts": {
     "test": "mocha **/*.test.js"
   },
