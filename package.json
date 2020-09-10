@@ -1,0 +1,21 @@
+{
+  "name": "insurance_endpoint",
+  "version": "1.0.0",
+  "description": "End point for calculating motor insurance",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha **/*.test.js"
+  },
+  "author": "K.B. Brew",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.6.1",
+    "mongoose": "^5.10.3",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "mocha": "^8.1.3",
+    "supertest": "^4.0.2"
+  }
+}

@@ -1,0 +1,5 @@
+[
+    {"cat_id": "1", "own_damage_basic_prem_rate": 0.05},
+    {"cat_id": "2", "own_damage_basic_prem_rate": 0.06},
+    {"cat_id": "3", "own_damage_basic_prem_rate": 0.03}
+]

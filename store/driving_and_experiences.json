@@ -1,0 +1,16 @@
+[
+    {
+        "usage"              : "private",
+        "age_of_driver"      : "18",
+        "min_year_experience": "1",
+        "at_inception"       : 0.10,
+        "at_time_of_claim"   : 0.20
+    },
+    {
+        "usage"              : "commercial",
+        "age_of_driver"      : "21",
+        "min_year_experience": "2",
+        "at_inception"       : 0.00,
+        "at_time_of_claim"   : 0.30
+    }
+]

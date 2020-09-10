@@ -1,0 +1,6 @@
+[
+    {"id": "1", "interval": "1-4","frb": 0.00},
+    {"id": "2", "interval": "5-10","frb": 0.05},
+    {"id": "3", "interval": "11-20","frb": 0.10},
+    {"id": "4", "interval": "above20","frb": 0.15}
+]

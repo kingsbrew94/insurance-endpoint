@@ -1,0 +1,41 @@
+[
+    {
+        "car_id"   : "1",
+        "cat_id"   : "1",
+        "owner_id" : "1",
+        "make_of_vehicle" : "BMW X6",
+        "cc"              : "2000",
+        "reg_no"          : "GW 3214-14",
+        "chassis"         : "SRDFGHR5613FYUVH",
+        "eng_no"          : "DRFGFYUUK56",
+        "year"            : "2007",
+        "no_seats"        : "8",
+        "lincence_issued_year": "2011"
+    },
+    {
+        "car_id"   : "2",
+        "cat_id"   : "2",
+        "owner_id" : "1",
+        "make_of_vehicle" : "Toyota Landcruiser",
+        "cc"              : "3200",
+        "reg_no"          : "GW 3214-15",
+        "chassis"         : "SRDFGHR5613FYUVH",
+        "eng_no"          : "DRFGFYUUK56",
+        "year"            : "2012",
+        "no_seats"        : "10",
+        "lincence_issued_year": "2002"
+    },
+    {
+        "car_id"   : "3",
+        "cat_id"   : "3",
+        "owner_id" : "1",
+        "make_of_vehicle" : "Honda",
+        "cc"              : "TBA",
+        "reg_no"          : "M-13 GR 1456",
+        "chassis"         : "SRDFGHR5613FYUVH",
+        "eng_no"          : "DRFGFYUUK56",
+        "year"            : "2013",
+        "no_seats"        : "2",
+        "lincence_issued_year": "2015"
+    }
+]

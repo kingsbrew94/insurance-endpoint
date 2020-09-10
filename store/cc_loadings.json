@@ -1,0 +1,5 @@
+[
+    {"valueRange": "upto1600","rate": 0.00},
+    {"valueRange": "1600-2000","rate": 0.05},
+    {"valueRange": "above2000","rate": 0.10}
+]

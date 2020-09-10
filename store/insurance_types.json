@@ -1,0 +1,10 @@
+[
+    {
+        "typeName"                : "Third Party",
+        "third_party_damage_limit": 2000.00
+    },
+    {
+        "typeName"                : "Comprehensive",
+        "third_party_damage_limit": 5000.00
+    }
+]

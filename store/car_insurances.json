@@ -1,0 +1,23 @@
+[ 
+    {
+        "car_id": "1",
+        "extra_tppd_cover_rate": 0.02,
+        "extra_tppd_cover_value": 1000,
+        "sum_insured"           : 60000.00,
+        "exccess_bought_rate"   : 0.10
+    },
+    {
+        "car_id": "2",
+        "extra_tppd_cover_rate": 0.02,
+        "extra_tppd_cover_value": 1000,
+        "sum_insured"           : 220000.00,
+        "exccess_bought_rate"   : 0.10
+    },
+    {
+        "car_id": "3",
+        "extra_tppd_cover_rate": 0.02,
+        "extra_tppd_cover_value": 1000,
+        "sum_insured"           : 15000.00,
+        "exccess_bought_rate"   : 0.00
+    }
+]

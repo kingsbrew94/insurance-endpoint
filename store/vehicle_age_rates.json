@@ -1,0 +1,5 @@
+[
+    {"id" : "1", "interval": "1-5",    "rate": 0.00},
+    {"id" : "2", "interval": "5-10",   "rate": 0.05},
+    {"id" : "3", "interval": "above10","rate": 0.075}
+]

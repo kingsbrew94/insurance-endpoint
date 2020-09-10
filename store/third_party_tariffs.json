@@ -1,0 +1,44 @@
+[
+    {
+        "cat_id"              : "1",
+        "tppd_rate"           : 0.0150,
+        "tppd_value"          : 30.00,
+        "tpi_rate"            : 0.002,
+        "tpi_value"           : 400.00,
+        "extra_seat_loading"  : 5.00,
+        "add_perils"          : 5.00,
+        "ecowas_perils"       : 5.00,
+        "pa_benefits"         : 20.00,
+        "nic"                 : 7.00,
+        "nhis_nrsc_levy"      : 2.00,
+        "brown_card"          : 2.00
+    },
+    {
+        "cat_id"              : "2",
+        "tppd_rate"           : 0.0150,
+        "tppd_value"          : 30.00,
+        "tpi_rate"            : 0.002,
+        "tpi_value"           : 400.00,
+        "extra_seat_loading"  : 5.00,
+        "add_perils"          : 5.00,
+        "ecowas_perils"       : 5.00,
+        "pa_benefits"         : 20.00,
+        "nic"                 : 7.00,
+        "nhis_nrsc_levy"      : 2.00,
+        "brown_card"          : 2.00
+    },
+    {
+        "cat_id"              : "3",
+        "tppd_rate"           : 0.01,
+        "tppd_value"          : 20.00,
+        "tpi_rate"            : 0.01,
+        "tpi_value"           : 200.00,
+        "extra_seat_loading"  : 0.00,
+        "add_perils"          : 2.00,
+        "ecowas_perils"       : 3.00,
+        "pa_benefits"         : 2.00,
+        "nic"                 : 7.00,
+        "nhis_nrsc_levy"      : 2.00,
+        "brown_card"          : 2.00
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "years"      : "1",
+        "private"    : 0.25,
+        "commercial" : 0.15,
+        "motor_cycle": 0.10
+    },
+    {
+        "years"      : "2",
+        "private"    : 0.30,
+        "commercial" : 0.20,
+        "motor_cycle": 0.10
+    },
+    {
+        "years"      : "3",
+        "private"    : 0.35,
+        "commercial" : 0.25,
+        "motor_cycle": 0.10
+    },
+    {
+        "years"      : "4",
+        "private"    : 0.45,
+        "commercial" : 0.25,
+        "motor_cycle": 0.10
+    },
+    {
+        "years"      : "5",
+        "private"    : 0.50,
+        "commercial" : 0.25,
+        "motor_cycle": 0.10
+    }
+]
